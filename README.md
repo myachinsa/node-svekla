@@ -1,4 +1,4 @@
-ob.js
+Protocol Maker
 =====
 
-ob - flexible network protocol making. Tools for nodejs servers.
+Protocol Maker - your own realtime protocols over TCP/HTTP
